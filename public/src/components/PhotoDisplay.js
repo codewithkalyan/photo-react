@@ -1,4 +1,4 @@
-
+// PhotoDisplay.js
 import React, { useState, useEffect } from 'react';
 import { getDatabase, ref, onValue, remove, set } from 'firebase/database';
 import FavoriteIcon from '@mui/icons-material/Favorite';
